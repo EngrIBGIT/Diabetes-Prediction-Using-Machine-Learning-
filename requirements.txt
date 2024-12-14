@@ -1,5 +1,5 @@
 streamlit
-scikit
+scikit-learn
 xgboost
 pickle
 pandas
