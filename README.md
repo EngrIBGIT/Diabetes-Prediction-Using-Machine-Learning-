@@ -1,6 +1,9 @@
 # Diabetes-Prediction-Using-Machine-Learning-
 This project predicts whether a patient is diabetic or not
 
+***[**Diabetes Prediction Web Link**](https://diabetes-prediction-using-machine-zmbp.onrender.com/)***
+
+
 # Diabetes Prediction Using Machine Learning  
 **A Classification Problem**
 
